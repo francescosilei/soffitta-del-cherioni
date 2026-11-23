@@ -2,7 +2,7 @@
 
 Sito pubblico (Netlify) con gli oggetti usati che Francesco vuole vendere online. Il sito è statico: `site/` contiene la pagina, i dati (`site/data/annunci.json`) e le foto (`site/foto/<ID>/<n>.jpg`). Dati e foto si generano con `tools/build.py` a partire dall'Excel `Annunci_soffitta.xlsx`, che vive su OneDrive, non in questo repository.
 
-Prima di lavorare leggi `docs/PIANO.md` (disegno completo) e le competenze in `.claude/skills/`:
+Prima di lavorare leggi `docs/PIANO.md` (disegno completo), `docs/STILE.md` (tono, stile e decisioni già prese con Francesco) e le competenze in `.claude/skills/`:
 - `crea-annunci`: crea o aggiorna le righe dell'Excel a partire da inventario e foto.
 - `aggiorna-sito`: costruisce il sito dall'Excel e lo pubblica; gestisce anche "venduto" e i link alle piattaforme.
 
