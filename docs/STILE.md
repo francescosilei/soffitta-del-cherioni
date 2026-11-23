@@ -9,11 +9,11 @@ Questo file riassume quello che Francesco ha deciso parlando con Claude, per chi
 - Non scrivere mai l'em dash nei testi.
 
 ## Tono delle descrizioni
-Informale e curato, con un tocco scherzoso **dove ci sta**, ma sempre con la descrizione concreta dell'oggetto: cos'è, a chi serve, com'è. Il compromesso deciso è questo: non troppo asettico e didascalico, non troppo da cabaret.
+Informale e curato. Le battute vanno messe **dove l'articolo si presta**, qualunque sia la categoria (elettronica compresa), e **non vanno forzate**: se non c'è una battuta naturale, la descrizione resta informale e concreta, senza. Sempre con la descrizione vera dell'oggetto: cos'è, a chi serve, com'è. Il compromesso deciso: non asettico e didascalico, non da cabaret.
 
 Oggetti dell'infanzia: giocare sulla "seconda opportunità", un oggetto che ha accompagnato la crescita di un bambino e ora aspetta il prossimo. Umano e leggero, senza sentimentalismi.
 
-Elettronica tecnica (switch, schede di rete, scanner): poche battute, molti fatti. Un esempio da non ripetere: paragonare le luci di uno switch di rete alla plancia di una centrale. Va bene invece: "Switch gestito da armadio rack, adatto a chi ha una rete cresciuta oltre le dimensioni di un router. 24 porte Gigabit, 4 slot SFP, gestione da browser."
+Battuta forzata: da evitare, in qualunque categoria. Esempio: paragonare le luci di uno switch di rete alla plancia di una centrale non faceva ridere e toglieva spazio ai fatti. Dove l'oggetto non offre una battuta naturale basta un tono informale e le informazioni concrete: "Switch gestito da armadio rack, adatto a chi ha una rete cresciuta oltre le dimensioni di un router. 24 porte Gigabit, 4 slot SFP, gestione da browser." Dove invece l'oggetto si presta (un decoder chiamato Zero, una macchina da scrivere dei Mondiali del 1990, un passeggino che ha fatto tanta strada) la battuta ci sta, anche se è elettronica.
 
 Argomenti seri (testimonianze storiche, politica): nessuna battuta.
 

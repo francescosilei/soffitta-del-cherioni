@@ -29,7 +29,7 @@ Leggi prima `CLAUDE.md` e `docs/PIANO.md`: le regole lì valgono sempre.
 5. Imposta `Stato vendita = In vendita` solo se hai titolo, prezzo, descrizione e almeno una foto pubblica.
 
 ## Contenuto: regole di scrittura
-- Tono informale, con un tocco scherzoso dove ci sta, **senza trascurare i fatti**: ogni descrizione deve dire cos'è, a chi serve e com'è. Meno battute su elettronica tecnica e testi seri.
+- Tono informale. Battute dove l'articolo si presta (in qualsiasi categoria), **senza forzarle**: se non c'è una battuta naturale, resta informale e concreto. In ogni caso **senza trascurare i fatti**: ogni descrizione deve dire cos'è, a chi serve e com'è. Nessuna battuta sugli argomenti seri (testimonianze, storia, politica). Vedi `docs/STILE.md`.
 - Nessuna spiegazione sull'omologazione dei seggiolini o sul cancellare i dati: Francesco le conosce già.
 - Se un dato non è ricavabile, **non inventarlo**: scrivilo in "Da verificare" (non viene pubblicato).
 - Prezzo online medio-alto sul venduto reale, arrotondato a euro interi. Sotto circa 10 euro valuta un lotto di pezzi uguali. Libri: titoli comuni a pochi euro, titoli rari o fuori catalogo di più.
