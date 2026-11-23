@@ -23,7 +23,7 @@ import sys
 from pathlib import Path
 
 from openpyxl import load_workbook
-from PIL import Image, ImageEnhance, ImageFilter, ImageOps
+from PIL import Image, ImageEnhance, ImageFilter, ImageOps, ImageStat
 
 LARGHEZZA, ALTEZZA = 1100, 825          # tutte le foto finali sono 4:3
 MARGINE_RITAGLIO = 0.05                  # margine attorno all'oggetto
@@ -102,7 +102,9 @@ def ritaglio(valore, dim):
 def elabora_foto(sorgente, destinazione, rotazione=0, box=None, sfoca=()):
     img = ImageOps.exif_transpose(Image.open(sorgente)).convert("RGB")
     if rotazione:
-        img = img.rotate(-rotazione, expand=True)           # gradi in senso orario
+        # gli angoli lasciati vuoti dalla rotazione si riempiono con il colore tipico della foto (non nero)
+        riempi = tuple(int(v) for v in ImageStat.Stat(img.resize((64, 64))).median)
+        img = img.rotate(-rotazione, expand=True, fillcolor=riempi)   # gradi in senso orario
     for (x0, y0, x1, y1) in sfoca:
         zona = img.crop((x0, y0, x1, y1)).filter(ImageFilter.GaussianBlur(30))
         img.paste(zona, (x0, y0))

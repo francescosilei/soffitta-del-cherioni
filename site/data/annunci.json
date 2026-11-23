@@ -2,81 +2,36 @@
  "generated": "2026-11-23",
  "items": [
   {
-   "id": "2001",
-   "title": "Tastiera in silicone blu, quella che si arrotola",
-   "subtitle": "Silenziosa, compatta e con layout italiano",
-   "description": "Non fa rumore, non si offende se la arrotoli e finisce in uno zaino come un sacco a pelo per le dita.\nÈ blu come un pomeriggio d'estate, ha il layout italiano con tutte le accentate al posto giusto e si collega con un cavo USB: la infili e scrivi.\nHa servito fedelmente e cerca ora una scrivania nuova: la tua, quella di un portatile in viaggio o di un tablet che sente la mancanza dei tasti veri.",
-   "category": "Elettronica e informatica",
-   "subcategory": "Tastiere e mouse",
+   "id": "0001",
+   "title": "Passeggino leggero grigio, con cuscino e accessori",
+   "subtitle": "Capottina ampia, inserto imbottito e un accessorio ancora nella busta",
+   "description": "Grigio, discreto e molto paziente: ha portato in giro un piccolo passeggero senza mai lamentarsi, nemmeno nelle buche.\nHa la capottina ampia, la cintura di sicurezza e un inserto imbottito per i giorni di sonno profondo, più un accessorio che non ha mai lasciato la sua busta.\nOra aspetta di conoscere un nuovo passeggero.",
+   "category": "Infanzia",
+   "subcategory": "Passeggini",
    "specs": [
-    [
-     "Layout",
-     "QWERTY italiano"
-    ],
-    [
-     "Collegamento",
-     "USB, cavo fisso"
-    ],
-    [
-     "Materiale",
-     "Silicone flessibile, si arrotola"
-    ],
     [
      "Colore",
-     "Blu"
+     "Grigio melange"
     ],
     [
-     "Formato",
-     "Compatto, senza tastierino numerico, con tasti F1-F12"
+     "Dotazioni",
+     "Capottina, cintura, inserto imbottito, accessorio in busta"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
     ]
    ],
-   "price": 14,
+   "price": 35,
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2001/1.jpg"
+    "foto/0001/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2002",
-   "title": "Vu+ Zero, il decoder satellitare piccolo ma zapper",
-   "subtitle": "Ricevitore HD DVB-S2 con la sua scatola originale",
-   "description": "Si chiama Zero, ma sa fare parecchio: aggancia il satellite in alta definizione, cambia canale senza pensarci e occupa meno spazio di un libro di ricette.\nÈ nato per fare il secondo decoder: quello della camera, della taverna o della casa al mare, dove il televisore c'è ma i canali non arrivano da soli.\nHa ancora la sua scatola originale, ordinata come il primo giorno.",
-   "category": "Elettronica e informatica",
-   "subcategory": "TV e satellitare",
-   "specs": [
-    [
-     "Tuner",
-     "1 x DVB-S2 (satellite)"
-    ],
-    [
-     "Video",
-     "Full HD 1080p, uscita HDMI"
-    ],
-    [
-     "Processore e memoria",
-     "742 MHz, 512 MB RAM, 256 MB flash"
-    ],
-    [
-     "Connessioni",
-     "Ethernet, 2 USB 2.0, lettore di smartcard"
-    ],
-    [
-     "Sistema",
-     "Linux Enigma2"
-    ]
-   ],
-   "price": 55,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2002/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2003",
+   "id": "0002",
    "title": "Inglesina Sketch, il passeggino che ha fatto tanta strada",
    "subtitle": "Leggero, si chiude con una mano, con capottina e cestino",
    "description": "Ha percorso marciapiedi, ciottolati, corridoi d'aeroporto e un numero imprecisabile di passeggiate \"solo fino all'angolo\".\nÈ leggero e compatto, si chiude con una mano (l'altra serve per il bambino, il caffè o il telefono), ha una capottina ampia per il sole e un cestino che ingoia borse, giacchette e peluche.\nHa accompagnato la crescita di un piccolo esploratore e adesso vuole vedere i progressi di un altro: se in casa è arrivato un nuovo passeggero, ecco il suo mezzo di trasporto.",
@@ -102,88 +57,55 @@
     [
      "Dotazioni",
      "Capottina, cestino, cintura di sicurezza"
-    ]
-   ],
-   "price": 55,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2003/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2004",
-   "title": "Hauck Sleep'n Safe Plus, la sponda che veglia sul sonno",
-   "subtitle": "Protezione pieghevole per letto, nella scatola originale",
-   "description": "Il lettone dei grandi è bellissimo finché qualcuno non rotola giù alle tre di notte. Questa sponda sta lì, ferma e paziente, e fa il suo lavoro senza chiedere niente.\nSi ripiega quando non serve e rientra nella sua scatola senza fare polvere nei cassetti.\nHa vegliato su sogni e capriole di un bambino che ormai dorme da grande: ora cerca un altro piccolo dormiglione da proteggere.",
-   "category": "Infanzia",
-   "subcategory": "Cameretta",
-   "specs": [
-    [
-     "Modello",
-     "Hauck Sleep'n Safe Plus"
-    ],
-    [
-     "Tipo",
-     "Sponda pieghevole per letto"
-    ],
-    [
-     "Lunghezza",
-     "108 cm"
-    ],
-    [
-     "Peso",
-     "Circa 3 kg"
-    ],
-    [
-     "Dotazioni",
-     "Scatola originale"
-    ]
-   ],
-   "price": 16,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2004/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2005",
-   "title": "Il Bacio di Klimt, in cornice dorata",
-   "subtitle": "Riproduzione con riflessi d'oro, cornice decorata e protezione trasparente",
-   "description": "Un abbraccio dorato che per anni ha illuminato una parete e il buonumore di chi passava.\nÈ una riproduzione, non l'originale (quello sta a Vienna e non è in vendita), ma i riflessi d'oro fanno la loro scena e la cornice decorata ci mette del suo.\nCerca una parete vuota che ha bisogno di un po' di romanticismo.",
-   "category": "Quadri",
-   "subcategory": "Riproduzioni",
-   "specs": [
-    [
-     "Soggetto",
-     "Il Bacio, Gustav Klimt (riproduzione)"
-    ],
-    [
-     "Cornice",
-     "Scura con filetti dorati, decorata"
-    ],
-    [
-     "Protezione",
-     "Lastra trasparente frontale"
     ],
     [
      "Consegna",
      "Ritiro a mano consigliato"
     ]
    ],
-   "price": 45,
+   "price": 75,
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2005/1.jpg"
+    "foto/0002/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2011",
+   "id": "0003",
+   "title": "Chicco mangiapannolini, il guardiano degli odori",
+   "subtitle": "Contenitore igienico bianco con maniglia per i pannolini usati",
+   "description": "Fa quello che nessuno ha voglia di fare: tenere chiusi in un posto sigillato i ricordi meno profumati della prima infanzia.\nÈ bianco, con la maniglia comoda per portarlo fuori e la linea pulita di un oggetto che sa stare in cameretta senza dare nell'occhio.\nServe a chi ha un neonato in casa e vuole la cameretta senza sorprese.",
+   "category": "Infanzia",
+   "subcategory": "Igiene e cura",
+   "specs": [
+    [
+     "Marca",
+     "Chicco"
+    ],
+    [
+     "Tipo",
+     "Contenitore igienico per pannolini usati"
+    ],
+    [
+     "Colore",
+     "Bianco"
+    ],
+    [
+     "Maniglia",
+     "Sì"
+    ]
+   ],
+   "price": 18,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0003/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0004",
    "title": "Seggiolino auto Kinderkraft, il sedile dei viaggi lunghi",
    "subtitle": "Cinture a cinque punti e poggiatesta che cresce con il bambino",
    "description": "Ha fatto il giro di nonni, mare, montagna e supermercato, con la musica dei cartoni sullo sfondo e qualche briciola di biscotto di troppo.\nIl rivestimento marrone melange nasconde bene le tracce di quelle avventure, le cinture sono a cinque punti e il poggiatesta si regola mentre il passeggero cresce.\nHa visto un bambino salire in macchina da piccolo e scendere da grande: adesso aspetta un altro viaggiatore.",
@@ -205,18 +127,22 @@
     [
      "Poggiatesta",
      "Regolabile in altezza"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
     ]
    ],
    "price": 45,
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2011/1.jpg"
+    "foto/0004/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2013",
+   "id": "0005",
    "title": "Chicco Vespa, il primo giro senza patente",
    "subtitle": "Cavalcabile rosso con adesivi da trattori e tanta strada alle spalle",
    "description": "Rosso fiammante, specchietti grigi e il faro che fa tanto Roma anni '60: l'unica Vespa che si guida con i piedi per terra.\nQualche adesivo di trattori ricorda chi l'ha cavalcata a lungo tra giardino e corridoio, con frenate molto personali.\nCerca un nuovo pilota, possibilmente con il casco della fantasia.",
@@ -248,12 +174,601 @@
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2013/1.jpg"
+    "foto/0005/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2016",
+   "id": "0006",
+   "title": "Telefono satellitare Atlas Elektronik SP 1600 B, in valigetta",
+   "subtitle": "Inmarsat-M completo di antenna, manuali e cavi: pezzo da collezione",
+   "description": "Prima che ci fosse un telefono in ogni tasca, per chiamare dal mare aperto servivano una valigetta, un'antenna a pannello e una buona dose di pazienza.\nQuesta è completa: apparecchio, cornetta, antenna a pannello e antenna a stilo, cavi, manuale d'uso Telecom Italia, manuale dati, mappa di puntamento e le cartoline di garanzia ancora in bianco.\nVendita come pezzo da collezione o da scenografia.",
+   "category": "Vintage e modernariato",
+   "subcategory": "Telefonia",
+   "specs": [
+    [
+     "Marca",
+     "Atlas Elektronik (Ellipsat)"
+    ],
+    [
+     "Modello",
+     "SP 1600 B"
+    ],
+    [
+     "Standard",
+     "Inmarsat-M"
+    ],
+    [
+     "Epoca",
+     "Metà anni '90"
+    ],
+    [
+     "Dotazioni",
+     "Apparecchio, cornetta, antenna a pannello, cavi, valigetta, manuali, mappa di puntamento"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
+    ]
+   ],
+   "price": 250,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0006/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0008",
+   "title": "Pinnacle PCTV PCI, la TV dentro il computer",
+   "subtitle": "Scheda PCI per vedere la TV e acquisire video, con ingressi S-Video e composito",
+   "description": "Per chi vuole guardare la TV sullo schermo del PC come ai bei tempi del tubo catodico, o salvare vecchie videocassette sull'hard disk.\nÈ una scheda PCI Pinnacle Systems con ingressi S-Video e composito. Va bene per PC d'epoca e progetti retro, non per i computer di oggi che il bus PCI non ce l'hanno più.\nUn pezzo piccolo di storia dell'informatica domestica.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Marca",
+     "Pinnacle Systems"
+    ],
+    [
+     "Modello",
+     "PCTV (versione da confermare)"
+    ],
+    [
+     "Interfaccia",
+     "PCI"
+    ],
+    [
+     "Ingressi video",
+     "S-Video e composito"
+    ]
+   ],
+   "price": 6,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0008/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0009",
+   "title": "RAM Samsung 2 GB DDR3 1333 MHz",
+   "subtitle": "Modulo desktop DDR3 PC3-10600U, codice M378B5673FH0-CH9",
+   "description": "Due giga di memoria Samsung per far respirare un vecchio PC da tavolo che ha bisogno di un po' di fiato.\nÈ un DIMM desktop DDR3 a 1333 MHz, da non confondere con i moduli per portatili. Ritiro a mano o spedizione in busta imbottita.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Samsung"
+    ],
+    [
+     "Capacità",
+     "2 GB"
+    ],
+    [
+     "Tipo",
+     "DDR3 DIMM desktop (PC3-10600U, 1333 MHz)"
+    ],
+    [
+     "Codice",
+     "M378B5673FH0-CH9"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0009/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0010",
+   "title": "Olivetti edizione Italia '90, con borsa a tema",
+   "subtitle": "Macchina da scrivere azzurra con la mascotte dei Mondiali",
+   "description": "Notti magiche, inseguendo un foglio bianco.\nÈ l'edizione speciale Italia '90: il corpo azzurro, la targhetta con la mascotte e perfino la borsa a tema, rimasta con lei come una vera tifosa.\nPer chi scrive a mano libera o a martelletto, per chi arreda con stile o per chi ha ancora in testa l'estate dei Mondiali.",
+   "category": "Vintage e modernariato",
+   "subcategory": "Macchine da scrivere",
+   "specs": [
+    [
+     "Marca",
+     "Olivetti"
+    ],
+    [
+     "Edizione",
+     "Italia '90, edizione speciale"
+    ],
+    [
+     "Colore",
+     "Azzurro"
+    ],
+    [
+     "Tastiera",
+     "QZERTY italiana"
+    ],
+    [
+     "Dotazioni",
+     "Borsa originale a tema"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
+    ]
+   ],
+   "price": 85,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0010/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0011",
+   "title": "Lampada da tavolo a cupola, la scrivania in stile anni '60",
+   "subtitle": "Paralume marrone con interno chiaro, stelo cromato e base a goccia con interruttore",
+   "description": "Una di quelle lampade che stavano sulle scrivanie quando i compiti si facevano con la penna e le lampade non pretendevano di essere smart.\nHa il paralume a cupola marrone, bianco all'interno, lo stelo cromato e la base a goccia con l'interruttore in vista.\nPer studio, comodino o un angolo vintage che ha bisogno di luce e di carattere.",
+   "category": "Vintage e modernariato",
+   "subcategory": "Illuminazione",
+   "specs": [
+    [
+     "Tipo",
+     "Lampada da tavolo o da scrivania"
+    ],
+    [
+     "Paralume",
+     "Cupola marrone, interno chiaro"
+    ],
+    [
+     "Stelo",
+     "Metallo cromato"
+    ],
+    [
+     "Base",
+     "A goccia, con interruttore"
+    ],
+    [
+     "Epoca",
+     "Anni '60-'70 circa"
+    ]
+   ],
+   "price": 38,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0011/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0012",
+   "title": "Intel Xeon 5140, il dual core da server",
+   "subtitle": "2,33 GHz, 4 MB di cache, bus 1333 MHz, socket LGA771",
+   "description": "Un processore da server con qualche anno sulle spalle, per chi ha una scheda madre LGA771 che aspetta di rimettersi in moto.\nDue core a 2,33 GHz, 4 MB di cache e consumi contenuti. Codice SL9RW, riconoscibile dalla serigrafia sul coperchio.\nPer aggiornare un vecchio server o per completare un progetto retro.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Marca e modello",
+     "Intel Xeon 5140"
+    ],
+    [
+     "Core",
+     "2 (dual core), 2,33 GHz"
+    ],
+    [
+     "Cache",
+     "4 MB"
+    ],
+    [
+     "Bus",
+     "FSB 1333 MHz"
+    ],
+    [
+     "Socket",
+     "LGA771"
+    ],
+    [
+     "Codice",
+     "SL9RW"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0012/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0013",
+   "title": "Iomega Zip, il lettore esterno con la porta parallela",
+   "subtitle": "Unità per dischi Zip con passante per stampante",
+   "description": "Per svuotare finalmente il cassetto dei dischi Zip: quei cartoncini che una volta salvavano il mondo, un file alla volta.\nÈ l'unità esterna blu con interfaccia a porta parallela e un secondo connettore per far passare la stampante. Per PC d'epoca e per recuperare vecchi archivi.\nFunziona su computer con porta parallela, quindi più nostalgico che pratico.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Periferiche",
+   "specs": [
+    [
+     "Marca",
+     "Iomega"
+    ],
+    [
+     "Tipo",
+     "Unità Zip esterna"
+    ],
+    [
+     "Colore",
+     "Blu"
+    ],
+    [
+     "Interfaccia",
+     "Porta parallela con passante per stampante (2 connettori DB25)"
+    ]
+   ],
+   "price": 25,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0013/1.jpg",
+    "foto/0013/2.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0014",
+   "title": "D-Link DP-301U, il print server che fa una stampante di rete",
+   "subtitle": "Fast Ethernet con porta USB, alimentatore, CD e guida rapida",
+   "description": "Trasforma la stampante appoggiata alla scrivania in una stampante raggiungibile da tutta la casa, senza tenere acceso il PC.\nSi collega alla rete con il cavo Ethernet e alla stampante con l'USB. Nella confezione ci sono l'alimentatore, il CD con i driver e la guida rapida in più lingue.\nPer chi ha una stampante che vale la pena tenere in vita.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca e modello",
+     "D-Link DP-301U"
+    ],
+    [
+     "Rete",
+     "Fast Ethernet 10/100"
+    ],
+    [
+     "Stampante",
+     "Porta USB"
+    ],
+    [
+     "Dotazioni",
+     "Alimentatore, CD con driver, guida rapida"
+    ]
+   ],
+   "price": 15,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0014/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0015",
+   "title": "Majestic HTS 511OPT, home theatre 5.1 con ingresso ottico",
+   "subtitle": "Sistema di diffusori attivi con subwoofer, nella scatola originale",
+   "description": "Il cinema in salotto, senza dover cambiare casa: un sistema 5.1 con subwoofer attivo e ingresso audio digitale ottico, per collegare televisore, lettore o console e avere finalmente un suono che arriva da tutte le parti.\nViene venduto nella sua scatola originale, con qualche segno degli anni e del nastro adesivo.\nIngombrante da spedire: meglio il ritiro a mano.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Audio e video",
+   "specs": [
+    [
+     "Marca e modello",
+     "Majestic HTS 511OPT"
+    ],
+    [
+     "Configurazione",
+     "5.1 canali, sistema attivo"
+    ],
+    [
+     "Ingresso",
+     "Audio digitale ottico"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
+    ]
+   ],
+   "price": 35,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0015/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0016",
+   "title": "Lotto di 5 moduli SFP in fibra, Avago, Finisar e PAG Opto",
+   "subtitle": "Transceiver Gigabit 1310 nm con connettore LC, tre modelli diversi",
+   "description": "Piccoli, metallici e incomprensibili ai più: per chi ha uno switch con slot SFP sono la differenza tra una rete di rame e una di fibra.\nIl lotto comprende tre Avago AFCT-5710LZ, un Finisar FTLF1318P2BTL e un PAG Opto LS38-C3S-TC-N. Adatto a chi monta un laboratorio di rete o a chi ha uno switch con slot SFP, come il Dell PowerConnect in vendita qui accanto.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Quantità",
+     "5 moduli SFP"
+    ],
+    [
+     "Avago AFCT-5710LZ",
+     "3 pezzi"
+    ],
+    [
+     "Finisar FTLF1318P2BTL",
+     "1 pezzo (1310 nm, monomodo)"
+    ],
+    [
+     "PAG Opto LS38-C3S-TC-N",
+     "1 pezzo (1310 nm, monomodo)"
+    ],
+    [
+     "Velocità",
+     "1,25 Gbps (Gigabit Ethernet)"
+    ]
+   ],
+   "price": 25,
+   "condition": "Ottimo",
+   "lot": 5,
+   "photos": [
+    "foto/0016/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0017",
+   "title": "Dell PowerConnect 5324, switch da armadio rack",
+   "subtitle": "24 porte Gigabit e 4 slot SFP, gestibile, formato 1U",
+   "description": "Switch gestito da armadio rack, adatto a chi ha una rete domestica o di studio cresciuta oltre le dimensioni di un router.\nHa 24 porte Gigabit, 4 slot SFP per la fibra e si gestisce da browser o da riga di comando.\nSolido e pensato per durare, si monta in rack o si appoggia su una scrivania.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca e modello",
+     "Dell PowerConnect 5324"
+    ],
+    [
+     "Porte",
+     "24 x 10/100/1000 e 4 slot SFP condivisi"
+    ],
+    [
+     "Tipo",
+     "Switch gestito di livello 2"
+    ],
+    [
+     "Formato",
+     "Rack 1U"
+    ],
+    [
+     "Gestione",
+     "HTTP, HTTPS, Telnet e SNMP"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
+    ]
+   ],
+   "price": 45,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0017/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0018",
+   "title": "Vedrò Singapore?, di Piero Chiara",
+   "subtitle": "Romanzo in edizione Narrativa Club, copertina rigida",
+   "description": "Un romanzo di Piero Chiara, il narratore del lago Maggiore: ironia di provincia, personaggi scelti con cura e una scrittura che non fa fatica.\nÈ l'edizione Narrativa Club con copertina rigida verde e un'illustrazione in primo piano.\nPer chi legge Chiara e per chi vuole cominciare da lui.",
+   "category": "Libri",
+   "subcategory": "Narrativa italiana",
+   "specs": [
+    [
+     "Autore",
+     "Piero Chiara"
+    ],
+    [
+     "Titolo",
+     "Vedrò Singapore?"
+    ],
+    [
+     "Edizione",
+     "Narrativa Club"
+    ],
+    [
+     "Formato",
+     "Copertina rigida"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 4,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0018/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0019",
+   "title": "Il vero signore si veste, di Egon von Fürstenberg",
+   "subtitle": "Manuale di stile maschile, rilegato con sovraccoperta",
+   "description": "Come annodare la cravatta senza sembrare un ostaggio: un manuale di stile maschile che prende sul serio i bottoni, le cravatte e la compostezza in ascensore.\nÈ rilegato, con la sovraccoperta illustrata, in buone condizioni per l'età.\nLo cerca chi ama la moda d'epoca o vuole un regalo con un po' di ironia.",
+   "category": "Libri",
+   "subcategory": "Moda e costume",
+   "specs": [
+    [
+     "Autore",
+     "Egon von Fürstenberg"
+    ],
+    [
+     "Titolo",
+     "Il vero signore si veste"
+    ],
+    [
+     "Genere",
+     "Manuale di stile maschile"
+    ],
+    [
+     "Formato",
+     "Rilegato con sovraccoperta"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 10,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0019/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0020",
+   "title": "Camon: Un altare per la madre, Il quinto stato, La vita eterna",
+   "subtitle": "Tre romanzi in un volume Euroclub, copertina rigida",
+   "description": "Tre romanzi di Ferdinando Camon in un solo volume: Un altare per la madre, Il quinto stato e La vita eterna.\nL'edizione è Euroclub con copertina rigida. Un altare per la madre ha vinto il Premio Strega nel 1978.\nPer chi cerca un autore italiano da leggere con calma.",
+   "category": "Libri",
+   "subcategory": "Narrativa italiana",
+   "specs": [
+    [
+     "Autore",
+     "Ferdinando Camon"
+    ],
+    [
+     "Contenuto",
+     "Un altare per la madre, Il quinto stato, La vita eterna"
+    ],
+    [
+     "Edizione",
+     "Euroclub"
+    ],
+    [
+     "Formato",
+     "Copertina rigida"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0020/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0021",
+   "title": "Il marxismo italiano, di Enzo Di Giacomo",
+   "subtitle": "Analisi e critica su Gramsci, Togliatti e Berlinguer, Lalli Editore",
+   "description": "Un saggio di analisi e critica sul marxismo italiano, con particolare riferimento al problema dell'organizzazione e della strategia in Gramsci, Togliatti e Berlinguer.\nPubblicato da Lalli Editore, in brossura con copertina rossa. Copia in buone condizioni.\nPer studenti, ricercatori e lettori di storia politica del Novecento.",
+   "category": "Libri",
+   "subcategory": "Saggistica politica",
+   "specs": [
+    [
+     "Autore",
+     "Enzo Di Giacomo"
+    ],
+    [
+     "Titolo",
+     "Il marxismo italiano. Analisi e critica"
+    ],
+    [
+     "Editore",
+     "Lalli Editore"
+    ],
+    [
+     "Formato",
+     "Brossura"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0021/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0022",
+   "title": "Islamismo, Atlanti Universali Giunti",
+   "subtitle": "Atlante illustrato su storia, precetti, sciiti e sunniti",
+   "description": "Un atlante illustrato che presenta in modo chiaro la storia dell'Islam, i suoi precetti e la divisione tra sciiti e sunniti.\nÈ un volume della collana Atlanti Universali Giunti, in brossura, con copertina illustrata a colori.\nUtile come introduzione per studenti e curiosi.",
+   "category": "Libri",
+   "subcategory": "Divulgazione",
+   "specs": [
+    [
+     "Titolo",
+     "Islamismo"
+    ],
+    [
+     "Collana",
+     "Atlanti Universali Giunti"
+    ],
+    [
+     "Argomenti",
+     "Storia, precetti, sciiti e sunniti"
+    ],
+    [
+     "Formato",
+     "Brossura illustrata"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 6,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0022/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0023",
    "title": "Le ceneri del Che, di Athos Bigongiali",
    "subtitle": "Romanzo Giunti con il volto più famoso del Novecento in copertina",
    "description": "Un nome che non smette di far parlare, trasformato in romanzo.\nCopertina rossa e inconfondibile, rilegatura solida e quell'aria da libro che ha già passato qualche tavolo di soggiorno e qualche estate in spiaggia.\nLo cerca chi ama la narrativa italiana di una certa stagione, o chi ha in casa una parete di poster e vuole un libro in tema.",
@@ -281,259 +796,49 @@
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2016/1.jpg"
+    "foto/0023/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2017",
-   "title": "Ashanti, di Alberto Vázquez-Figueroa",
-   "subtitle": "Romanzo d'avventura, edizione Euroclub con segnalibro in seta",
-   "description": "Deserto, carovane e un'avventura che non lascia mai respirare: un romanzo d'altri tempi, di quelli che si leggevano sotto l'ombrellone e non si chiudevano più.\nL'edizione Euroclub è rilegata e ha ancora il suo nastrino dorato come segnalibro.\nLo cerca chi ama i grandi avventurieri di carta.",
+   "id": "0024",
+   "title": "Un uomo, di Oriana Fallaci",
+   "subtitle": "Edizione Euroclub narrativa, copertina rigida",
+   "description": "Il romanzo con cui Oriana Fallaci racconta la vita e la morte di Alekos Panagulis, scritto con la stessa forza dei suoi reportage.\nL'edizione è Euroclub narrativa, rilegata, con segnalibro a nastro rosso.\nPer i lettori di Fallaci e per chi cerca un libro che non si dimentica.",
    "category": "Libri",
-   "subcategory": "Avventura",
+   "subcategory": "Narrativa italiana",
    "specs": [
     [
-     "Autore",
-     "Alberto Vázquez-Figueroa"
+     "Autrice",
+     "Oriana Fallaci"
     ],
     [
-     "Collana",
+     "Titolo",
+     "Un uomo"
+    ],
+    [
+     "Edizione",
      "Euroclub narrativa"
     ],
     [
      "Formato",
-     "Rilegato con segnalibro in nastro"
+     "Copertina rigida con segnalibro"
     ],
     [
      "Lingua",
      "Italiano"
     ]
    ],
-   "price": 6,
+   "price": 7,
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2017/1.jpg"
+    "foto/0024/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2018",
-   "title": "LTE Signaling: Troubleshooting & Optimization",
-   "subtitle": "Il manuale Wiley per chi parla correntemente di reti mobili",
-   "description": "Se per te eNodeB è una parola di uso quotidiano, questo è il libro che ti serve.\nÈ il testo di riferimento sulla segnalazione LTE, scritto con l'esperienza dei laboratori Tektronix: come funziona, dove si inceppa e come rimetterla in carreggiata.\nRilegato, in inglese, pronto a stare accanto al monitor di chi lavora sulle reti.",
-   "category": "Libri",
-   "subcategory": "Informatica e telecomunicazioni",
-   "specs": [
-    [
-     "Autori",
-     "Ralf Kreher, Karsten Gaenger"
-    ],
-    [
-     "Editore",
-     "Wiley, con Tektronix Communications"
-    ],
-    [
-     "Edizione",
-     "Prima (2011)"
-    ],
-    [
-     "Formato",
-     "Rilegato"
-    ],
-    [
-     "Lingua",
-     "Inglese"
-    ]
-   ],
-   "price": 28,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2018/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2019",
-   "title": "Adele di Klimt, la signora d'oro",
-   "subtitle": "Riproduzione in cornice dorata con passepartout scuro e vetro",
-   "description": "Ti guarda con quell'aria da chi sa tutto, e probabilmente sa anche dove hai lasciato le chiavi.\nÈ una riproduzione del ritratto di Adele Bloch-Bauer (l'originale sta a New York), con riflessi d'oro, passepartout scuro e una cornice dorata che sta bene con quasi tutto.\nCerca una parete che abbia bisogno di un po' di luce.",
-   "category": "Quadri",
-   "subcategory": "Riproduzioni",
-   "specs": [
-    [
-     "Soggetto",
-     "Adele Bloch-Bauer I, Gustav Klimt (riproduzione)"
-    ],
-    [
-     "Cornice",
-     "Dorata"
-    ],
-    [
-     "Passepartout",
-     "Scuro"
-    ],
-    [
-     "Protezione",
-     "Vetro"
-    ],
-    [
-     "Consegna",
-     "Ritiro a mano consigliato"
-    ]
-   ],
-   "price": 35,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2019/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2020",
-   "title": "Passeggino leggero grigio, con cuscino e accessori",
-   "subtitle": "Capottina ampia, inserto imbottito e un accessorio ancora nella busta",
-   "description": "Grigio, discreto e molto paziente: ha portato in giro un piccolo passeggero senza mai lamentarsi, nemmeno nelle buche.\nHa la capottina ampia, la cintura di sicurezza e un inserto imbottito per i giorni di sonno profondo, più un accessorio che non ha mai lasciato la sua busta.\nOra aspetta di conoscere un nuovo passeggero.",
-   "category": "Infanzia",
-   "subcategory": "Passeggini",
-   "specs": [
-    [
-     "Colore",
-     "Grigio melange"
-    ],
-    [
-     "Dotazioni",
-     "Capottina, cintura, inserto imbottito, accessorio in busta"
-    ]
-   ],
-   "price": 35,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2020/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2021",
-   "title": "Chicco Pocket Snack, il rialzo che porta la pappa ovunque",
-   "subtitle": "Seggiolino da tavolo con vassoio, verde menta e verde bosco",
-   "description": "Ha mangiato a casa dei nonni, al ristorante, in vacanza e anche in cucina, quando la sedia grande era ancora un traguardo da raggiungere.\nSi aggancia a una sedia qualsiasi con le sue cinghie, ha il vassoio staccabile per le pappe più ambiziose e posate disegnate in rilievo sullo schienale, perché ogni tanto bisogna ricordare a che serve.\nHa visto crescere un piccolo buongustaio: ora cerca il prossimo, con il bavaglino pronto.",
-   "category": "Infanzia",
-   "subcategory": "Pappa e svezzamento",
-   "specs": [
-    [
-     "Marca",
-     "Chicco"
-    ],
-    [
-     "Modello",
-     "Pocket Snack"
-    ],
-    [
-     "Età",
-     "Da 6 a 36 mesi"
-    ],
-    [
-     "Peso massimo",
-     "15 kg"
-    ],
-    [
-     "Caratteristiche",
-     "Tre altezze, vassoio estraibile, cintura a tre punti"
-    ],
-    [
-     "Peso",
-     "Circa 2 kg"
-    ]
-   ],
-   "price": 18,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2021/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2022",
-   "title": "Un paese normale, di Massimo D'Alema",
-   "subtitle": "Con Claudio Velardi e Gianni Cuperlo, edizione Mondadori",
-   "description": "Un libro-intervista che fotografa un'idea di sinistra e di Italia di un'altra stagione: letto oggi è un viaggio nel tempo con copertina rigida.\nÈ in buono stato e l'unica cosa un po' datata è il futuro, che nel frattempo è diventato passato.\nPer chi ama la politica, la storia recente o semplicemente i libri con un titolo che promette una cosa difficile.",
-   "category": "Libri",
-   "subcategory": "Saggistica e politica",
-   "specs": [
-    [
-     "Autore",
-     "Massimo D'Alema, con Claudio Velardi e Gianni Cuperlo"
-    ],
-    [
-     "Editore",
-     "Arnoldo Mondadori Editore"
-    ],
-    [
-     "Formato",
-     "Rilegato"
-    ],
-    [
-     "Lingua",
-     "Italiano"
-    ],
-    [
-     "Anno",
-     "1995"
-    ]
-   ],
-   "price": 6,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2022/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2023",
-   "title": "Soldi truccati: i segreti del sistema Sindona",
-   "subtitle": "Inchiesta di Lombard, edizione Euroclub con segnalibro verde",
-   "description": "Un'inchiesta sui meccanismi del sistema Sindona, uno dei grandi crac della storia finanziaria italiana: soldi veri solo sulla copertina.\nL'edizione Euroclub è rilegata e ha ancora il suo nastrino verde come segnalibro.\nPer chi cerca testi sugli anni '70 e '80, sulla finanza o sulla cronaca nera economica.",
-   "category": "Libri",
-   "subcategory": "Saggistica e politica",
-   "specs": [
-    [
-     "Autore",
-     "Lombard"
-    ],
-    [
-     "Collana",
-     "Euroclub"
-    ],
-    [
-     "Argomento",
-     "Il sistema Sindona"
-    ],
-    [
-     "Formato",
-     "Rilegato con segnalibro in nastro"
-    ],
-    [
-     "Lingua",
-     "Italiano"
-    ]
-   ],
-   "price": 8,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2023/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2024",
+   "id": "0027",
    "title": "Lotto di adattatori powerline TP-Link TL-PA211",
    "subtitle": "La rete di casa passa dalla presa elettrica, senza cavi nel corridoio",
    "description": "Hai il router in salotto e il computer in fondo alla casa, e tra i due un muro che non lascia passare il Wi-Fi? Questi adattatori portano la rete attraverso l'impianto elettrico: si infilano nella presa e fanno il resto.\nSono compatti, con una porta Ethernet ciascuno e il pulsante per l'abbinamento. Funzionano meglio in coppia o in più, sullo stesso circuito elettrico.\nVenduti insieme, per chi ha una casa grande o una rete da rimettere in ordine.",
@@ -543,6 +848,10 @@
     [
      "Marca e modello",
      "TP-Link TL-PA211 (AV200 Mini)"
+    ],
+    [
+     "Quantità",
+     "4 adattatori"
     ],
     [
      "Velocità",
@@ -563,14 +872,479 @@
    ],
    "price": 25,
    "condition": "Ottimo",
-   "lot": null,
+   "lot": 4,
    "photos": [
-    "foto/2024/1.jpg"
+    "foto/0027/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2025",
+   "id": "0028",
+   "title": "Scheda PCI con 4+1 porte USB 2.0",
+   "subtitle": "Quattro porte esterne e una interna, con chip VIA",
+   "description": "Per aggiungere porte USB a un PC con slot PCI: quattro sul retro e una interna per una chiavetta o un lettore di schede.\nVa bene per computer d'epoca o per chi ha finito le porte e non vuole spendere troppo.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Interfaccia",
+     "PCI"
+    ],
+    [
+     "Porte",
+     "4 USB 2.0 esterne e 1 interna"
+    ],
+    [
+     "Chip",
+     "VIA"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0028/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0029",
+   "title": "Scheda video PCI Express con uscite VGA, DVI e S-Video",
+   "subtitle": "Fascia bassa, circuito rosso e dissipatore con ventola",
+   "description": "Una scheda video di quelle che salvavano un PC senza grafica integrata: uscite VGA, DVI e S-Video, circuito stampato rosso e ventolina sul dissipatore.\nAdatta a un computer da ufficio o a un progetto retro. Il modello esatto è da leggere sull'etichetta sul retro.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Interfaccia",
+     "PCI Express"
+    ],
+    [
+     "Uscite",
+     "VGA, DVI e S-Video"
+    ],
+    [
+     "Raffreddamento",
+     "Dissipatore con ventola"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0029/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0030",
+   "title": "Scheda audio PCI con porta game",
+   "subtitle": "Uscite a jack per l'audio multicanale e porta joystick e MIDI",
+   "description": "Una scheda audio PCI di quando il suono del PC dipendeva da un'espansione: jack colorati per le uscite e la porta joystick che si vedeva su ogni scatola.\nPer riportare in vita un vecchio computer o per chi ama i PC di quegli anni.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Interfaccia",
+     "PCI"
+    ],
+    [
+     "Uscite audio",
+     "Jack colorati"
+    ],
+    [
+     "Extra",
+     "Porta joystick e MIDI"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0030/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0031",
+   "title": "Lotto 2 moduli RAM Kingston 512 MB DDR2",
+   "subtitle": "Codice KTD-WS670/512, da 1,8 V, per workstation Dell",
+   "description": "Due moduli identici di memoria Kingston da 512 MB l'uno, venduti insieme per una workstation Dell che ha bisogno di fiato.\nCodice KTD-WS670/512, etichetta originale Genuine Kingston.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Kingston"
+    ],
+    [
+     "Quantità",
+     "2 moduli"
+    ],
+    [
+     "Capacità",
+     "512 MB ciascuno"
+    ],
+    [
+     "Tipo",
+     "DDR2, 1,8 V"
+    ],
+    [
+     "Codice",
+     "KTD-WS670/512"
+    ]
+   ],
+   "price": 6,
+   "condition": "Ottimo",
+   "lot": 2,
+   "photos": [
+    "foto/0031/1.jpg",
+    "foto/0031/2.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0032",
+   "title": "Lotto 2 moduli RAM Micron 1 GB DDR SO-DIMM ECC",
+   "subtitle": "PC3200, DDR 400 MHz con ECC, formato per portatili e server compatti",
+   "description": "Due SO-DIMM Micron da 1 GB, con codice di correzione errori: vanno su portatili e server compatti compatibili.\nCodice MT18VDDF12872HY-40BF1.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Micron"
+    ],
+    [
+     "Quantità",
+     "2 moduli"
+    ],
+    [
+     "Capacità",
+     "1 GB ciascuno"
+    ],
+    [
+     "Tipo",
+     "DDR SO-DIMM, PC3200, 400 MHz, ECC"
+    ],
+    [
+     "Codice",
+     "MT18VDDF12872HY-40BF1"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "lot": 2,
+   "photos": [
+    "foto/0032/1.jpg",
+    "foto/0032/2.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0033",
+   "title": "RAM Kingston 1 GB DDR2, codice KTD-WS670/1G",
+   "subtitle": "Modulo da 1,8 V per workstation Dell",
+   "description": "Un giga di memoria Kingston per una workstation Dell che ne chiede ancora un po'.\nModulo con etichetta originale, codice KTD-WS670/1G.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Kingston"
+    ],
+    [
+     "Capacità",
+     "1 GB"
+    ],
+    [
+     "Tipo",
+     "DDR2, 1,8 V"
+    ],
+    [
+     "Codice",
+     "KTD-WS670/1G"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0033/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0035",
+   "title": "RAM Kingston 1 GB DDR SO-DIMM per portatili ThinkPad",
+   "subtitle": "Modulo da 2,5 V, codice KTM-TP9828/1G",
+   "description": "Un giga di memoria Kingston in formato SO-DIMM per i portatili IBM e Lenovo ThinkPad di una volta.\nCodice KTM-TP9828/1G.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Kingston"
+    ],
+    [
+     "Capacità",
+     "1 GB"
+    ],
+    [
+     "Tipo",
+     "DDR SO-DIMM, 2,5 V"
+    ],
+    [
+     "Codice",
+     "KTM-TP9828/1G"
+    ],
+    [
+     "Compatibilità",
+     "Portatili IBM e Lenovo ThinkPad"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0035/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0036",
+   "title": "Lotto 2 moduli RAM VData 1 GB DDR2 800",
+   "subtitle": "Moduli desktop DDR2 a 800 MHz",
+   "description": "Due moduli VData da 1 GB, DDR2 a 800 MHz, venduti insieme per portare un PC da tavolo a 2 GB.\nUno dei due ha un po' di residuo di nastro adesivo sul modulo: si vede nella seconda foto.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "VData"
+    ],
+    [
+     "Quantità",
+     "2 moduli"
+    ],
+    [
+     "Capacità",
+     "1 GB ciascuno"
+    ],
+    [
+     "Tipo",
+     "DDR2 DIMM desktop, 800 MHz"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "lot": 2,
+   "photos": [
+    "foto/0036/1.jpg",
+    "foto/0036/2.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0037",
+   "title": "RAM Samsung 1 GB DDR2 PC2-6400",
+   "subtitle": "Modulo desktop a 800 MHz, codice M378T2863DZS-CF7",
+   "description": "Un giga di DDR2 Samsung a 800 MHz per un PC da tavolo che ne vuole ancora un po'.\nCodice M378T2863DZS-CF7.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Moduli RAM",
+   "specs": [
+    [
+     "Marca",
+     "Samsung"
+    ],
+    [
+     "Capacità",
+     "1 GB"
+    ],
+    [
+     "Tipo",
+     "DDR2 DIMM desktop, PC2-6400U, 800 MHz"
+    ],
+    [
+     "Codice",
+     "M378T2863DZS-CF7"
+    ]
+   ],
+   "price": 5,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0037/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0041",
+   "title": "Olivetti Dora, la portatile grigia da scrivania",
+   "subtitle": "Macchina da scrivere manuale con tastiera QZERTY italiana",
+   "description": "Nome gentile e tasti decisi: la Dora è una portatile Olivetti che sta bene su una scrivania di design anche quando non scrive.\nHa il corpo grigio chiaro, la tastiera italiana QZERTY e la targhetta Olivetti Dora in bella vista.\nPer chi scrive a macchina, per chi arreda con stile o per chi ha bisogno di un regalo che si fa notare.",
+   "category": "Vintage e modernariato",
+   "subcategory": "Macchine da scrivere",
+   "specs": [
+    [
+     "Marca",
+     "Olivetti"
+    ],
+    [
+     "Modello",
+     "Dora"
+    ],
+    [
+     "Colore",
+     "Grigio chiaro"
+    ],
+    [
+     "Tastiera",
+     "QZERTY italiana"
+    ],
+    [
+     "Consegna",
+     "Ritiro a mano consigliato"
+    ]
+   ],
+   "price": 60,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0041/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0042",
+   "title": "Lotto 2 mini switch Surecom a 5 porte",
+   "subtitle": "Ethernet 10/100, piccoli e bianchi, per la scrivania",
+   "description": "Due mini switch da scrivania, perfetti per moltiplicare la presa di rete dietro la TV o sulla scrivania senza cambiare la parete.\nCinque porte Ethernet 10/100 ciascuno, venduti insieme.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca",
+     "Surecom"
+    ],
+    [
+     "Modello",
+     "EP-805SX (due esemplari)"
+    ],
+    [
+     "Quantità",
+     "2 switch"
+    ],
+    [
+     "Porte",
+     "5 Ethernet 10/100 ciascuno"
+    ]
+   ],
+   "price": 10,
+   "condition": "Ottimo",
+   "lot": 2,
+   "photos": [
+    "foto/0042/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0043",
+   "title": "Hub 3Com OfficeConnect Dual Speed a 16 porte",
+   "subtitle": "Hub Ethernet 10/100 per rete di casa o ufficio, vecchio stile",
+   "description": "Un hub 3Com di quando le reti di casa si costruivano con scatolotti beige: sedici porte, 10 e 100 Mbps in autonegoziazione e le spie a barra per vedere quanto traffico passa.\nÈ un hub e non uno switch: tutti i dispositivi condividono la banda. Adatto a laboratori retro, prove di rete e curiosi.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca e modello",
+     "3Com OfficeConnect Dual Speed Hub 16"
+    ],
+    [
+     "Porte",
+     "16 RJ-45 10/100"
+    ],
+    [
+     "Tipo",
+     "Hub (non switch)"
+    ]
+   ],
+   "price": 12,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0043/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0044",
+   "title": "Lotto 2 hub 3Com OfficeConnect Dual Speed a 8 porte",
+   "subtitle": "Hub Ethernet 10/100, due esemplari",
+   "description": "Due hub 3Com da otto porte, 10 e 100 Mbps, impilati come si faceva allora.\nSono hub e non switch: i dispositivi condividono la banda. Adatti a prove di rete e a progetti retro.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca e modello",
+     "3Com OfficeConnect Dual Speed Hub 8"
+    ],
+    [
+     "Quantità",
+     "2 hub"
+    ],
+    [
+     "Porte",
+     "8 RJ-45 10/100 ciascuno"
+    ],
+    [
+     "Tipo",
+     "Hub (non switch)"
+    ]
+   ],
+   "price": 15,
+   "condition": "Ottimo",
+   "lot": 2,
+   "photos": [
+    "foto/0044/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0045",
+   "title": "3Com Baseline 3C16470, switch Ethernet 16 porte",
+   "subtitle": "SuperStack 3, 10/100, da rack da 19 pollici o da scrivania",
+   "description": "Uno switch semplice e senza storie: sedici porte 10/100 che si regolano da sole, nessuna configurazione e una struttura da rack che regge anche una scrivania.\nPer chi vuole ampliare una rete cablata senza complicazioni.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca e modello",
+     "3Com Baseline 3C16470 (SuperStack 3)"
+    ],
+    [
+     "Porte",
+     "16 RJ-45 10/100 con autonegoziazione"
+    ],
+    [
+     "Tipo",
+     "Switch non gestito"
+    ],
+    [
+     "Formato",
+     "Rack 19 pollici o da scrivania"
+    ]
+   ],
+   "price": 20,
+   "condition": "Ottimo",
+   "lot": null,
+   "photos": [
+    "foto/0045/1.jpg"
+   ],
+   "platforms": []
+  },
+  {
+   "id": "0046",
    "title": "Metronic trasmettitore e ricevitore wireless",
    "subtitle": "Coppia emettitore e ricevitore con antenne e alimentatori",
    "description": "Una coppia di apparecchi grigi che comunicano senza fili: uno trasmette, l'altro riceve, ciascuno con la sua antenna.\nÈ la coppia completa, con i due alimentatori e le antenne al loro posto: utile per portare un segnale da una stanza all'altra, in casa o in garage.\nInteressa a chi ama l'elettronica d'epoca o ha un progetto da realizzare.",
@@ -598,270 +1372,69 @@
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2025/1.jpg"
+    "foto/0046/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2026",
-   "title": "Wacom Bamboo, la tavoletta grafica con la sua penna",
-   "subtitle": "Penna e tavoletta compatta con cavo USB",
-   "description": "Per chi disegna, ritocca fotografie o firma con la penna invece che con il mouse: una tavoletta compatta che si collega con un cavo USB e fa subito il suo lavoro.\nLa penna è al suo posto, accanto alla tavoletta, come se non si fosse mai mossa.\nHa servito per schizzi e ritocchi: ora cerca un nuovo utilizzatore.",
-   "category": "Elettronica e informatica",
-   "subcategory": "Periferiche",
-   "specs": [
-    [
-     "Marca",
-     "Wacom"
-    ],
-    [
-     "Serie",
-     "Bamboo"
-    ],
-    [
-     "Collegamento",
-     "USB, cavo incluso"
-    ],
-    [
-     "Dotazioni",
-     "Penna e tavoletta"
-    ]
-   ],
-   "price": 20,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2026/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2027",
-   "title": "Dell PowerConnect 5324, switch da armadio rack",
-   "subtitle": "24 porte Gigabit e 4 slot SFP, gestibile, formato 1U",
-   "description": "Switch gestito da armadio rack, adatto a chi ha una rete domestica o di studio cresciuta oltre le dimensioni di un router.\nHa 24 porte Gigabit, 4 slot SFP per la fibra e si gestisce da browser o da riga di comando.\nSolido e pensato per durare, si monta in rack o si appoggia su una scrivania.",
-   "category": "Elettronica e informatica",
-   "subcategory": "Rete",
-   "specs": [
-    [
-     "Marca e modello",
-     "Dell PowerConnect 5324"
-    ],
-    [
-     "Porte",
-     "24 x 10/100/1000 e 4 slot SFP condivisi"
-    ],
-    [
-     "Tipo",
-     "Switch gestito di livello 2"
-    ],
-    [
-     "Formato",
-     "Rack 1U"
-    ],
-    [
-     "Gestione",
-     "HTTP, HTTPS, Telnet e SNMP"
-    ]
-   ],
-   "price": 45,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2027/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2028",
-   "title": "Majestic HTS 511OPT, home theatre 5.1 con ingresso ottico",
-   "subtitle": "Sistema di diffusori attivi con subwoofer, nella scatola originale",
-   "description": "Il cinema in salotto, senza dover cambiare casa: un sistema 5.1 con subwoofer attivo e ingresso audio digitale ottico, per collegare televisore, lettore o console e avere finalmente un suono che arriva da tutte le parti.\nViene venduto nella sua scatola originale, con qualche segno degli anni e del nastro adesivo.\nIngombrante da spedire: meglio il ritiro a mano.",
+   "id": "0047",
+   "title": "Intuix, kit trasmettitore e ricevitore video 2,4 GHz",
+   "subtitle": "Trasmettitore e ricevitore con antenne, alimentatori e adattatore SCART",
+   "description": "Per portare un segnale video in un'altra stanza senza stendere cavi: un trasmettitore, un ricevitore, le antenne e gli alimentatori.\nNel kit c'è anche l'adattatore SCART. Tecnologia analogica, utile con TV e decoder con ingresso SCART.",
    "category": "Elettronica e informatica",
    "subcategory": "Audio e video",
    "specs": [
     [
-     "Marca e modello",
-     "Majestic HTS 511OPT"
+     "Marca",
+     "Intuix"
     ],
     [
-     "Configurazione",
-     "5.1 canali, sistema attivo"
-    ],
-    [
-     "Ingresso",
-     "Audio digitale ottico"
+     "Frequenza",
+     "2,4 GHz"
     ],
     [
      "Composizione",
-     "Cinque diffusori e subwoofer"
-    ],
-    [
-     "Consegna",
-     "Ritiro a mano consigliato"
-    ]
-   ],
-   "price": 35,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2028/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2029",
-   "title": "Apple iMac G3 celeste con Mac OS 8.6, tastiera e mouse",
-   "subtitle": "Il computer che nel 1999 ha portato il colore sulle scrivanie",
-   "description": "Uno dei computer più riconoscibili di sempre: l'iMac G3 con il suo guscio traslucido celeste e le casse laterali verde acqua, che a fine anni '90 ha portato il design sulle scrivanie.\nNella foto è acceso e funzionante, con Mac OS 8.6 e 96 MB di memoria. Insieme ci sono tastiera e mouse Apple trasparenti.\nAdatto a collezionisti, a chi vuole riprovare il vecchio Mac e a chi ama arredare con un pezzo di storia dell'informatica.",
-   "category": "Vintage e modernariato",
-   "subcategory": "Computer d'epoca",
-   "specs": [
-    [
-     "Modello",
-     "Apple iMac G3"
-    ],
-    [
-     "Sistema operativo",
-     "Mac OS 8.6"
-    ],
-    [
-     "Memoria",
-     "96 MB"
-    ],
-    [
-     "Schermo",
-     "CRT integrato"
+     "Trasmettitore e ricevitore"
     ],
     [
      "Dotazioni",
-     "Tastiera e mouse Apple"
-    ],
-    [
-     "Colore",
-     "Celeste traslucido"
-    ],
-    [
-     "Consegna",
-     "Ritiro a mano consigliato"
+     "Alimentatori, antenne, adattatore SCART"
     ]
    ],
-   "price": 150,
+   "price": 15,
    "condition": "Ottimo",
    "lot": null,
    "photos": [
-    "foto/2029/1.jpg"
+    "foto/0047/1.jpg"
    ],
    "platforms": []
   },
   {
-   "id": "2030",
-   "title": "Epson Perfection 1240U, scanner piano con unità per diapositive",
-   "subtitle": "Per digitalizzare foto, documenti e negativi",
-   "description": "Per svuotare finalmente il cassetto delle foto di famiglia: uno scanner piano a colori con collegamento USB e risoluzione di 1200 x 2400 dpi.\nHa il coperchio con l'unità per trasparenze, quindi oltre a fogli e fotografie può digitalizzare diapositive e negativi.\nUn lavoro paziente, ma ben fatto.",
+   "id": "0049",
+   "title": "Lotto 4 ventole per PC e server",
+   "subtitle": "Tre Sanyo Denki da 80 e 92 mm con griglia e una Nidec Beta V da 120 mm",
+   "description": "Quattro ventole di ricambio per PC, server e armadietti: tre Sanyo Denki con griglia e una Nidec Beta V TA450DC da 120 mm.\nPer chi deve sostituire una ventola rumorosa o rimettere in sesto un vecchio server.",
    "category": "Elettronica e informatica",
-   "subcategory": "Periferiche",
+   "subcategory": "Componenti PC",
    "specs": [
     [
-     "Marca e modello",
-     "Epson Perfection 1240U"
+     "Quantità",
+     "4 ventole"
     ],
     [
-     "Tipo",
-     "Scanner piano a colori"
+     "Sanyo Denki",
+     "3 pezzi da 80 e 92 mm con griglia"
     ],
     [
-     "Risoluzione",
-     "1200 x 2400 dpi"
-    ],
-    [
-     "Collegamento",
-     "USB"
-    ],
-    [
-     "Dotazioni",
-     "Coperchio con unità per diapositive e negativi"
-    ]
-   ],
-   "price": 28,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2030/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2031",
-   "title": "MPLS: fondamenti e applicazioni alle reti IP, di Tiziano Tofoni",
-   "subtitle": "Hoepli Informatica, collana Reti e comunicazione",
-   "description": "Un manuale in italiano per chi lavora sulle reti dei provider e vuole leggere l'MPLS nella propria lingua.\nTratta qualità del servizio (QoS), ingegneria del traffico e reti private virtuali (VPN), con un taglio pratico.\nBrossura in buono stato, adatto a studenti, tecnici e curiosi di telecomunicazioni.",
-   "category": "Libri",
-   "subcategory": "Informatica e telecomunicazioni",
-   "specs": [
-    [
-     "Autore",
-     "Tiziano Tofoni"
-    ],
-    [
-     "Editore",
-     "Hoepli (collana Reti e comunicazione)"
-    ],
-    [
-     "Argomenti",
-     "MPLS, QoS, traffic engineering, VPN"
-    ],
-    [
-     "Formato",
-     "Brossura"
-    ],
-    [
-     "Lingua",
-     "Italiano"
+     "Nidec Beta V TA450DC",
+     "1 pezzo da 120 mm"
     ]
    ],
    "price": 12,
    "condition": "Ottimo",
-   "lot": null,
+   "lot": 4,
    "photos": [
-    "foto/2031/1.jpg"
-   ],
-   "platforms": []
-  },
-  {
-   "id": "2032",
-   "title": "Cleopatra, di Michael Grant",
-   "subtitle": "Newton Storia, edizione integrale nei Grandi tascabili economici",
-   "description": "La biografia della regina d'Egitto più famosa dell'antichità, tra imprese, politica e passioni spregiudicate.\nÈ l'edizione integrale nella collana economica Newton, un tascabile comodo da portare in viaggio.\nSul bollino c'è ancora il prezzo in lire: 6.900.",
-   "category": "Libri",
-   "subcategory": "Storia e biografie",
-   "specs": [
-    [
-     "Autore",
-     "Michael Grant"
-    ],
-    [
-     "Collana",
-     "Grandi tascabili economici Newton (Newton Storia)"
-    ],
-    [
-     "Edizione",
-     "Integrale"
-    ],
-    [
-     "Formato",
-     "Tascabile in brossura"
-    ],
-    [
-     "Lingua",
-     "Italiano"
-    ]
-   ],
-   "price": 3,
-   "condition": "Ottimo",
-   "lot": null,
-   "photos": [
-    "foto/2032/1.jpg"
+    "foto/0049/1.jpg"
    ],
    "platforms": []
   }
