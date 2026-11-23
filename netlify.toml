@@ -1,0 +1,12 @@
+[build]
+  publish = "site"
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=60"
+
+[[headers]]
+  for = "/foto/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"

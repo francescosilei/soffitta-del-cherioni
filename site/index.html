@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>La soffitta del Cherioni</title>
+<meta name="description" content="Oggetti usati in buono stato, scelti e descritti uno per uno: elettronica, libri, infanzia, vintage e molto altro.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=DM+Sans:wght@400;500;700&display=swap">
+<style>
+/* Vetrina a griglia con cartellini prezzo; scheda oggetto a due colonne (galleria + testo). */
+:root{
+  --bg:#EDF3F0; --surface:#FFFFFF; --ink:#14213D; --muted:#55627A; --line:#D3DDD8;
+  --tag:#FF6B57; --tag-ink:#FFFFFF; --sun:#FFC531; --sun-ink:#3A2A00; --teal:#0E9F8E;
+  --font-display:'Bricolage Grotesque','Trebuchet MS',system-ui,sans-serif;
+  --font-body:'DM Sans',system-ui,-apple-system,'Segoe UI',sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0F1A23; --surface:#172531; --ink:#EAF1EE; --muted:#9DB0B8; --line:#2A3C49;
+    --tag:#FF7A68; --tag-ink:#1B0905; --teal:#35C9B6;
+    color-scheme:dark;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:16px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;padding:36px 0 20px}
+.brand{min-width:0}
+.brand h1{font-family:var(--font-display);font-weight:800;font-size:clamp(2.1rem,6vw,3.6rem);line-height:1;margin:0;letter-spacing:-.02em;text-wrap:balance}
+.brand h1 a{text-decoration:none}
+.brand h1 span{display:inline-block;background:var(--tag);color:var(--tag-ink);padding:0 .22em;border-radius:.18em;transform:rotate(-2deg)}
+.brand p{margin:12px 0 0;color:var(--muted);max-width:46ch}
+.count{font-family:var(--font-display);font-weight:800;font-size:15px;background:var(--surface);border:2px solid var(--ink);border-radius:999px;padding:6px 14px;white-space:nowrap}
+.tools{display:grid;gap:12px;margin-bottom:24px}
+.search{display:flex;gap:10px;flex-wrap:wrap}
+.search input,.search select{font:inherit;color:var(--ink);background:var(--surface);border:2px solid var(--line);border-radius:12px;padding:10px 14px;min-width:0}
+.search input{flex:1 1 220px}
+:focus-visible{outline:3px solid var(--teal);outline-offset:2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font:inherit;font-weight:500;font-size:14px;cursor:pointer;color:var(--ink);background:var(--surface);border:2px solid var(--line);border-radius:999px;padding:6px 14px}
+.chip:hover{border-color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chips.sub .chip{font-size:13px;padding:4px 12px;border-style:dashed}
+.chips.sub .chip[aria-pressed="true"]{border-style:solid;background:var(--teal);border-color:var(--teal);color:#06231F}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:20px}
+.card{display:flex;flex-direction:column;background:var(--surface);border:2px solid var(--line);border-radius:18px;overflow:hidden;text-decoration:none;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-4px) rotate(-.4deg);border-color:var(--ink)}
+.photo{position:relative;aspect-ratio:4/3;display:grid;place-items:center;overflow:hidden}
+.photo img,.stage img,.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.photo img{position:absolute;inset:0}
+.lotto{position:absolute;top:10px;left:10px;font-size:12px;font-weight:700;background:var(--ink);color:var(--bg);border-radius:6px;padding:2px 8px}
+.price{position:absolute;right:-2px;top:14px;font-family:var(--font-display);font-weight:800;font-size:20px;background:var(--tag);color:var(--tag-ink);
+  padding:4px 14px 4px 24px;clip-path:polygon(14px 0,100% 0,100% 100%,14px 100%,0 50%)}
+.price::before{content:"";position:absolute;left:11px;top:50%;width:6px;height:6px;margin-top:-3px;border-radius:50%;background:var(--surface)}
+.card .body{padding:14px 16px 16px;display:grid;gap:4px}
+.cat{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--teal)}
+.card h3{font-family:var(--font-display);font-weight:800;font-size:19px;line-height:1.2;margin:0;text-wrap:balance}
+.card p{margin:0;color:var(--muted);font-size:14px}
+.empty{padding:48px 16px;text-align:center;color:var(--muted);border:2px dashed var(--line);border-radius:18px}
+.back{display:inline-block;margin:28px 0 18px;font-weight:700;text-decoration:none;border-bottom:2px solid var(--tag)}
+.detail{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:32px;align-items:start}
+@media (max-width:760px){.detail{grid-template-columns:minmax(0,1fr)}}
+.stage{position:relative;aspect-ratio:4/3;border-radius:20px;overflow:hidden;border:2px solid var(--line);background:var(--surface)}
+.thumbs{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+.thumb{width:84px;aspect-ratio:4/3;border-radius:12px;border:3px solid transparent;overflow:hidden;cursor:pointer;padding:0;background:var(--surface)}
+.thumb[aria-current="true"]{border-color:var(--ink)}
+.dl{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{font:inherit;font-weight:700;font-size:14px;cursor:pointer;background:var(--ink);color:var(--bg);border:0;border-radius:12px;padding:10px 16px;text-decoration:none;display:inline-block}
+.btn.alt{background:var(--surface);color:var(--ink);border:2px solid var(--line)}
+.hint{font-size:13px;color:var(--muted)}
+.info h2{font-family:var(--font-display);font-weight:800;font-size:clamp(1.7rem,4vw,2.4rem);line-height:1.1;margin:6px 0 6px;text-wrap:balance}
+.sub{color:var(--muted);font-size:18px;margin:0 0 16px}
+.bigprice{display:inline-block;font-family:var(--font-display);font-weight:800;font-size:34px;background:var(--tag);color:var(--tag-ink);padding:4px 20px 4px 34px;
+  clip-path:polygon(20px 0,100% 0,100% 100%,20px 100%,0 50%);margin-bottom:6px}
+.meta{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 20px}
+.pill{font-size:13px;font-weight:700;border:2px solid var(--line);border-radius:999px;padding:2px 12px;background:var(--surface)}
+.pill.ok{border-color:var(--teal);color:var(--teal)}
+.info h4{font-family:var(--font-display);font-size:15px;letter-spacing:.06em;text-transform:uppercase;margin:24px 0 8px}
+.desc{white-space:pre-line;max-width:62ch;margin:0}
+table{border-collapse:collapse;width:100%}
+th,td{text-align:left;padding:8px 0;border-bottom:1px solid var(--line);vertical-align:top;font-size:15px}
+th{width:42%;color:var(--muted);font-weight:500;padding-right:12px}
+.where{display:flex;gap:10px;flex-wrap:wrap}
+.where a,.where span{font-weight:700;font-size:14px;border-radius:10px;padding:8px 14px;text-decoration:none}
+.where a{background:var(--surface);border:2px solid var(--ink)}
+.where a:hover{background:var(--sun);color:var(--sun-ink);border-color:var(--sun)}
+.where span{border:2px dashed var(--line);color:var(--muted);font-weight:500}
+footer{margin-top:56px;color:var(--muted);font-size:13px;text-align:center}
+@media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"><p class="empty">Carico gli oggetti...</p></div>
+
+<script>
+/* Ordine e tonalità delle categorie; quelle nuove vengono accodate. */
+var CATS = {
+  "Libri":28,"Quadri":330,"Vintage e modernariato":42,"Giocattoli":200,
+  "Infanzia":140,"Elettronica e informatica":215,"Casa e varie":12
+};
+var ITEMS = [];
+var app = document.getElementById('app');
+var cat = "", sub = "", q = "", sort = "nuovi";
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function eur(n){return (Math.round(n)===n? String(n) : String(n).replace('.',','))+" €"}
+function hue(c){return (c in CATS)?CATS[c]:200}
+function tint(c,i){var h=(hue(c)+(i||0)*18)%360;return "background:linear-gradient(135deg,hsl("+h+" 70% 82%),hsl("+((h+30)%360)+" 75% 70%))"}
+function photoOf(i,k){return (i.photos&&i.photos[k||0])||""}
+function imgTag(i,k){var p=photoOf(i,k);return p?'<img src="'+esc(p)+'" alt="" loading="lazy" decoding="async">':''}
+
+function home(){
+  var allCats = Object.keys(CATS).filter(function(c){return ITEMS.some(function(i){return i.category===c})});
+  ITEMS.forEach(function(i){ if(allCats.indexOf(i.category)<0) allCats.push(i.category) });
+  var subs = cat ? ITEMS.filter(function(i){return i.category===cat}).map(function(i){return i.subcategory}).filter(function(s,k,a){return s&&a.indexOf(s)===k}) : [];
+  var list = ITEMS.filter(function(i){
+    var hay=(i.title+" "+(i.subtitle||"")+" "+(i.subcategory||"")).toLowerCase();
+    return (!cat||i.category===cat)&&(!sub||i.subcategory===sub)&&(!q||hay.indexOf(q.toLowerCase())>=0);
+  });
+  if(sort==="prezzo-su") list.sort(function(a,b){return a.price-b.price});
+  else if(sort==="prezzo-giu") list.sort(function(a,b){return b.price-a.price});
+  app.innerHTML =
+  '<header class="top"><div class="brand"><h1><a href="#">La <span>soffitta</span> del Cherioni</a></h1>'+
+  '<p>Roba bella, già vissuta, in cerca di una seconda casa. Guarda, scegli, e trovi dove comprarla.</p></div>'+
+  '<div class="count">'+ITEMS.length+' oggetti in vendita</div></header>'+
+  '<div class="tools"><div class="search"><input id="q" type="search" placeholder="Cerca un oggetto" value="'+esc(q)+'" aria-label="Cerca">'+
+  '<select id="sort" aria-label="Ordina"><option value="nuovi">Novità</option><option value="prezzo-su">Prezzo crescente</option><option value="prezzo-giu">Prezzo decrescente</option></select></div>'+
+  '<div class="chips" role="group" aria-label="Categorie"><button class="chip" aria-pressed="'+(!cat)+'" data-cat="">Tutto</button>'+
+  allCats.map(function(c){return '<button class="chip" aria-pressed="'+(cat===c)+'" data-cat="'+esc(c)+'">'+esc(c)+'</button>'}).join("")+'</div>'+
+  (subs.length?'<div class="chips sub" role="group" aria-label="Sottocategorie"><button class="chip" aria-pressed="'+(!sub)+'" data-sub="">Tutte</button>'+
+  subs.map(function(s){return '<button class="chip" aria-pressed="'+(sub===s)+'" data-sub="'+esc(s)+'">'+esc(s)+'</button>'}).join("")+'</div>':'')+
+  '</div>'+
+  (list.length?'<div class="grid">'+list.map(function(i){
+    return '<a class="card" href="#oggetto-'+esc(i.id)+'"><div class="photo" style="'+tint(i.category)+'">'+imgTag(i,0)+
+    (i.lot?'<span class="lotto">Lotto da '+esc(i.lot)+'</span>':'')+'<span class="price">'+eur(i.price)+'</span></div>'+
+    '<div class="body"><span class="cat">'+esc(i.subcategory||i.category)+'</span><h3>'+esc(i.title)+'</h3><p>'+esc(i.subtitle||"")+'</p></div></a>';
+  }).join("")+'</div>':'<div class="empty">Nessun oggetto corrisponde alla ricerca. Prova con un\'altra parola o un\'altra categoria.</div>')+
+  '<footer>La soffitta del Cherioni</footer>';
+  document.getElementById('sort').value = sort;
+  document.getElementById('q').oninput = function(e){
+    q=e.target.value; var pos=e.target.selectionStart; home();
+    var n=document.getElementById('q'); n.focus(); n.setSelectionRange(pos,pos);
+  };
+  document.getElementById('sort').onchange = function(e){sort=e.target.value;home()};
+  [].forEach.call(app.querySelectorAll('[data-cat]'),function(b){b.onclick=function(){cat=b.dataset.cat;sub="";home()}});
+  [].forEach.call(app.querySelectorAll('[data-sub]'),function(b){b.onclick=function(){sub=b.dataset.sub;home()}});
+}
+
+function detail(id){
+  var i = ITEMS.filter(function(x){return String(x.id)===String(id)})[0];
+  if(!i){location.hash="";return}
+  var cur = 0, photos = i.photos||[];
+  function draw(){
+    app.innerHTML =
+    '<a class="back" href="#">← Tutti gli oggetti</a><div class="detail"><div>'+
+    '<div class="stage" style="'+tint(i.category,cur)+'">'+imgTag(i,cur)+'</div>'+
+    (photos.length>1?'<div class="thumbs">'+photos.map(function(p,k){
+      return '<button class="thumb" data-k="'+k+'" aria-label="Foto '+(k+1)+'"'+(k===cur?' aria-current="true"':'')+'>'+imgTag(i,k)+'</button>';
+    }).join("")+'</div>':'')+
+    (photos.length?'<div class="dl"><a class="btn" id="dlall" href="'+esc(photos[0])+'" download>Scarica le foto</a>'+
+    '<span class="hint">'+(photos.length===1?'1 foto pronta':photos.length+' foto pronte')+' per gli annunci</span></div>':'')+
+    '</div><div class="info"><span class="cat">'+esc(i.category)+(i.subcategory?' · '+esc(i.subcategory):'')+'</span>'+
+    '<h2>'+esc(i.title)+'</h2><p class="sub">'+esc(i.subtitle||"")+'</p>'+
+    '<div class="bigprice">'+eur(i.price)+'</div>'+
+    '<div class="meta"><span class="pill ok">Stato: '+esc((i.condition||"Ottimo").toLowerCase())+'</span>'+
+    (i.lot?'<span class="pill">Lotto da '+esc(i.lot)+'</span>':'')+'<span class="pill">Codice '+esc(i.id)+'</span></div>'+
+    '<h4>Descrizione</h4><p class="desc">'+esc(i.description)+'</p>'+
+    ((i.specs&&i.specs.length)?'<h4>Specifiche</h4><table>'+i.specs.map(function(r){return '<tr><th>'+esc(r[0])+'</th><td>'+esc(r[1])+'</td></tr>'}).join("")+'</table>':'')+
+    '<h4>Dove lo trovi</h4>'+
+    ((i.platforms&&i.platforms.length)?'<div class="where">'+i.platforms.map(function(p){return '<a href="'+esc(p.url)+'" target="_blank" rel="noopener">'+esc(p.name)+'</a>'}).join("")+'</div>'
+     :'<div class="where"><span>Non ancora sulle piattaforme</span></div>')+
+    '</div></div><footer>La soffitta del Cherioni</footer>';
+    [].forEach.call(app.querySelectorAll('.thumb'),function(b){b.onclick=function(){cur=+b.dataset.k;draw()}});
+    var dl=document.getElementById('dlall');
+    if(dl&&photos.length>1){
+      dl.onclick=function(e){
+        e.preventDefault();
+        photos.forEach(function(p,k){
+          setTimeout(function(){
+            var a=document.createElement('a'); a.href=p; a.download=String(i.id)+'-'+(k+1)+'.jpg';
+            document.body.appendChild(a); a.click(); a.remove();
+          },k*350);
+        });
+      };
+    } else if(dl){ dl.setAttribute('download',String(i.id)+'-1.jpg'); }
+  }
+  draw(); window.scrollTo(0,0);
+}
+
+function route(){
+  var m = location.hash.match(/^#oggetto-([A-Za-z0-9-]+)$/);
+  if(m) detail(m[1]); else home();
+}
+window.addEventListener('hashchange',route);
+
+fetch('data/annunci.json',{cache:'no-cache'})
+  .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(function(d){ ITEMS = d.items||[]; route(); })
+  .catch(function(){ app.innerHTML='<p class="empty">Non riesco a caricare gli oggetti. Riprova tra poco.</p>'; });
+</script>
+</body>
+</html>

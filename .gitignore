@@ -1,0 +1,19 @@
+# Dati privati: restano su OneDrive
+Annunci_soffitta.xlsx
+~$*
+*.xlsx
+!docs/Annunci_soffitta_modello.xlsx
+
+# Foto originali e di lavoro
+originali/
+Nuove/
+Analizzate/
+tmp/
+*.heic
+*.HEIC
+
+# Varie
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

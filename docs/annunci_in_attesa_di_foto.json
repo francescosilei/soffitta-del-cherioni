@@ -1,0 +1,257 @@
+{
+ "descrizione": "Annunci già scritti per il mock-up ma senza foto utilizzabile. Riusare testi e specifiche quando si crea la riga corrispondente nell'Excel (l'ID vero è quello dell'inventario del mercatino).",
+ "items": [
+  {
+   "id_provvisorio": "2006",
+   "title": "La casa delle bambole, di Ka-Tzetnik 135633",
+   "subtitle": "Edizione rilegata con sovraccoperta, collana Grandi libri",
+   "description": "Non è un libro da leggere per svago: è una testimonianza dura e importante, firmata con il numero di matricola che l'autore portava addosso.\nL'esemplare è rilegato, con la sua sovraccoperta blu e il nastrino segnalibro ancora al suo posto.\nLo cerca chi vuole completare uno scaffale di storia e memoria, o chi ha già letto Levi e vuole andare oltre.",
+   "category": "Libri",
+   "subcategory": "Narrativa e testimonianze",
+   "specs": [
+    [
+     "Autore",
+     "Ka-Tzetnik 135633"
+    ],
+    [
+     "Collana",
+     "Grandi libri"
+    ],
+    [
+     "Formato",
+     "Rilegato con sovraccoperta e segnalibro"
+    ],
+    [
+     "Lingua",
+     "Italiano"
+    ]
+   ],
+   "price": 25,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2007",
+   "title": "Learning Spark, prima edizione",
+   "subtitle": "O'Reilly, il manuale con il pesce in copertina",
+   "description": "Il testo con cui in molti hanno scoperto Spark, quando le scintille erano ancora poche e tutte da imparare.\nÈ la prima edizione del 2015, in brossura e in lingua inglese: più adatta a capire le basi e la storia che a lavorare con le versioni di oggi.\nIl pesce in copertina è già in regalo.",
+   "category": "Libri",
+   "subcategory": "Informatica",
+   "specs": [
+    [
+     "Autori",
+     "Karau, Konwinski, Wendell, Zaharia"
+    ],
+    [
+     "Editore",
+     "O'Reilly"
+    ],
+    [
+     "Edizione",
+     "Prima, 2015"
+    ],
+    [
+     "Lingua",
+     "Inglese"
+    ],
+    [
+     "Formato",
+     "Brossura"
+    ]
+   ],
+   "price": 8,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2008",
+   "title": "Philips Home Solaria, l'estate che sta in soggiorno",
+   "subtitle": "Lampada solare con timer fino a 60 minuti",
+   "description": "Quando fuori piove e il colorito è quello di una melanzana in letargo, lei è sempre pronta.\nHa il timer con manopola da 0 a 60 minuti, il selettore per regolare l'intensità e la linea pulita dei tempi in cui il design si faceva bianco.\nCome ogni sole, da prendere con moderazione.",
+   "category": "Casa e varie",
+   "subcategory": "Benessere",
+   "specs": [
+    [
+     "Marca",
+     "Philips"
+    ],
+    [
+     "Modello",
+     "Original Home Solaria"
+    ],
+    [
+     "Timer",
+     "Manopola 0-60 minuti"
+    ],
+    [
+     "Regolazioni",
+     "Selettore di abbronzatura e indicatore di distanza"
+    ],
+    [
+     "Colore",
+     "Bianco"
+    ]
+   ],
+   "price": 20,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2009",
+   "title": "Olivetti edizione Italia '90, con borsa a tema",
+   "subtitle": "Macchina da scrivere azzurra con la mascotte dei Mondiali",
+   "description": "Notti magiche, inseguendo un foglio bianco.\nÈ l'edizione speciale Italia '90: il corpo azzurro, la targhetta con la mascotte e perfino la borsa a tema, rimasta con lei come una vera tifosa.\nPer chi scrive a mano libera o a martelletto, per chi arreda con stile o per chi ha ancora in testa l'estate dei Mondiali.",
+   "category": "Vintage e modernariato",
+   "subcategory": "Macchine da scrivere",
+   "specs": [
+    [
+     "Marca",
+     "Olivetti"
+    ],
+    [
+     "Edizione",
+     "Italia '90, edizione speciale"
+    ],
+    [
+     "Colore",
+     "Azzurro"
+    ],
+    [
+     "Tastiera",
+     "QZERTY italiana"
+    ],
+    [
+     "Dotazioni",
+     "Borsa originale a tema"
+    ]
+   ],
+   "price": 85,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2010",
+   "title": "Telefono satellitare Atlas Elektronik SP 1600 B, in valigetta",
+   "subtitle": "Inmarsat-M completo di antenna, manuali e cavi: pezzo da collezione",
+   "description": "Prima che ci fosse un telefono in ogni tasca, per chiamare dal mare aperto servivano una valigetta, un'antenna a pannello e una buona dose di pazienza.\nQuesta è completa: apparecchio, cornetta, antenna a pannello, cavi, i manuali in italiano e in inglese e perfino i moduli di garanzia ancora in bianco.\nVendita come pezzo da collezione o da scenografia.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Telefonia",
+   "specs": [
+    [
+     "Marca",
+     "Atlas Elektronik"
+    ],
+    [
+     "Modello",
+     "Satphone SP 1600 B"
+    ],
+    [
+     "Standard",
+     "Inmarsat-M"
+    ],
+    [
+     "Dotazioni",
+     "Apparecchio, cornetta, antenna a pannello, cavi, valigetta, manuali"
+    ],
+    [
+     "Epoca",
+     "Anni '90"
+    ]
+   ],
+   "price": 120,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2012",
+   "title": "Braun aspiratore nasale elettrico, il nemico dei nasi chiusi",
+   "subtitle": "Due livelli di aspirazione, punte lavabili, nella sua scatola",
+   "description": "Quando il naso tappato ruba il sonno a tutti, lui lo libera con delicatezza e senza discussioni.\nHa due livelli di aspirazione, le punte si lavano e va bene fin dalla nascita.\nL'ha usato una famiglia con un naso piccolo e molta pazienza: ora cerca un'altra casa con un'emergenza di fazzoletti.",
+   "category": "Infanzia",
+   "subcategory": "Cura del bambino",
+   "specs": [
+    [
+     "Marca",
+     "Braun"
+    ],
+    [
+     "Modello",
+     "Nasal aspirator 1"
+    ],
+    [
+     "Livelli di aspirazione",
+     "2"
+    ],
+    [
+     "Punte",
+     "Lavabili"
+    ],
+    [
+     "Età",
+     "Dalla nascita"
+    ]
+   ],
+   "price": 15,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2014",
+   "title": "Vodafone Wi-Fi 6 Station, il router con la scatola in ordine",
+   "subtitle": "Modem router Wi-Fi 6 nella confezione originale",
+   "description": "Wi-Fi 6 per una casa dove la rete deve arrivare anche in cucina, in taverna e dietro la porta del bagno.\nLa scatola è elegante e ancora al suo posto, come si usava una volta.\nCerca una nuova connessione da far felice.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Rete",
+   "specs": [
+    [
+     "Marca",
+     "Vodafone"
+    ],
+    [
+     "Modello",
+     "Wi-Fi 6 Station"
+    ],
+    [
+     "Standard Wi-Fi",
+     "Wi-Fi 6"
+    ],
+    [
+     "Dotazioni",
+     "Scatola originale"
+    ]
+   ],
+   "price": 25,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  },
+  {
+   "id_provvisorio": "2015",
+   "title": "Sapphire Radeon HD 4890, la guerriera dei vecchi videogiochi",
+   "subtitle": "Scheda video AMD con 1 GB di memoria",
+   "description": "Nell'adesivo ha la guerriera con la maschera e l'arco che scruta l'orizzonte: la scheda video di quando le cinture dei giochi erano fatte di pixel e di ventole che soffiavano.\nÈ pensata per chi rimette in piedi un PC da gioco d'epoca, per un progetto retro o semplicemente per un caso che non vuole saperne di diventare ricambio.",
+   "category": "Elettronica e informatica",
+   "subcategory": "Componenti PC",
+   "specs": [
+    [
+     "Marca",
+     "Sapphire (chip AMD)"
+    ],
+    [
+     "Modello",
+     "Radeon HD 4890"
+    ],
+    [
+     "Interfaccia",
+     "PCI Express 2.0 x16"
+    ],
+    [
+     "Raffreddamento",
+     "Ventola a turbina"
+    ]
+   ],
+   "price": 30,
+   "condition": "Ottimo",
+   "nota": "Testo e prezzo proposti; manca la foto. Verificare i dati prima di pubblicare."
+  }
+ ]
+}
